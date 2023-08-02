@@ -1,3 +1,10 @@
+# raw files
+data/*
+analysis/*
+analysis2/*
+sample_list.csv
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
