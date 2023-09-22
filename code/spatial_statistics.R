@@ -3,9 +3,14 @@ library(spatstat)
 library(plotly)
 library(ggthemes)
 
+setwd("/Users/sbandya/Desktop/hemocyte_recruitment_image_quantification/code/")
+inputdir <- file.path("/Users/sbandya/Desktop/hemocyte_recruitment_image_quantification/analysis/")
 
-inputdir <- file.path("/Users/sbandya/Desktop/dev/hemocyte_recruitment_image_quantification/analysis/")
-abdomen_data <-  read.csv(file.path(paste0(inputdir,"annotation_measurements_compiled.tsv")),sep = "\t", header=TRUE)
+# Read all abdomen and hemocyte object measurements
+
+
+abdomen_data <-  read.csv(file.path(paste0(inputdir,"annotation_measurements_compiled.tsv"))
+  sep = "\t", header=TRUE)
 hemocyte_data <- read.csv(file.path(paste0(inputdir,"detection_measurements_compiled.tsv")),sep = "\t", header=TRUE)
 #samples <- 
 
