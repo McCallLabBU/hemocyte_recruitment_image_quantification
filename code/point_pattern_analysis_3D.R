@@ -67,13 +67,23 @@ scaled_hemocyte_coordinates_3D_hyperframe <- hyperframe(scaled_3D_coordinates = 
                                                         experimental_condition = factor(conditions))
 
 scaled_hemocyte_coordinates_3D_hyperframe
-
-plot(scaled_hemocyte_coordinates_3D_hyperframe,)
-plot(scaled_hemocyte_coordinates_3D_hyperframe, quote(plot(K3est(scaled_3D_coordinates))))   
-
 dim(scaled_hemocyte_coordinates_3D_hyperframe)
+#plot(scaled_hemocyte_coordinates_3D_hyperframe, quote(plot(K3est(scaled_3D_coordinates))))   
 
-K3est(spatstat_object)
-E <- envelope(spatstat_object, K3est, nsim=100, nrank=50, nrval=512) 
-plot(E, sqrt(.) ~ r) 
+##############################################################################
+# Calculate Ripley's K summary statistic for each abdomen
+##############################################################################
+
+scaled_hemocyte_coordinates_3D_hyperframe$RipleyK <- with(scaled_hemocyte_coordinates_3D_hyperframe,
+                                                          K3est(scaled_3D_coordinates, ratio=TRUE))
+
+groupK <- anylapply(split(scaled_hemocyte_coordinates_3D_hyperframe$RipleyK, 
+                          scaled_hemocyte_coordinates_3D_hyperframe$experimental_condition), pool) 
+
+plot(groupK)
+
+Leach <- anylapply(Lsplit, collapse.fv,  same="theo", different="iso")  > plot(Leach, legend=FALSE, xlim=c(0, 0.2), ylim=c(0, 0.2)) 
+ 
+
+
 
