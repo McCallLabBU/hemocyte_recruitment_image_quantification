@@ -1,5 +1,5 @@
 # Hemocyte Recruitment Analysis
-Workflow to analyze hemocyte localization in confocal microscopy images of cryosectioned _Drosophila melanogaster_ abdomens, as described in publication ### 
+Workflow to analyze hemocyte localization in confocal microscopy images of cryosectioned _Drosophila melanogaster_ abdomens, as described in publication (upcoming) 
 
 ## Aims
 Are hemocytes recruited to clear the dying ovarian follicle epithelium during starvation?  

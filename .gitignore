@@ -1,9 +1,8 @@
 # raw files
 data/*
-analysis/*
-analysis2/*
-analysis3/*
-sample_list.csv
+results/archive
+results/allsections
+code/archive
 .DS_Store
 
 # Byte-compiled / optimized / DLL files
