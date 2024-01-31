@@ -4,7 +4,8 @@ results/archive/*
 results/allsections/*
 code/archive/*
 .DS_Store
-
+.RData
+.Rhistory
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
