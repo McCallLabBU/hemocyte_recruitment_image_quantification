@@ -1,7 +1,8 @@
 # raw files
-results/*archive/*
-results/*allsections/*
-code/*archive/*
+data/midsections/annotated_images/*
+results/archive/*
+results/allsections/*
+code/archive/*
 .DS_Store
 
 # Byte-compiled / optimized / DLL files
