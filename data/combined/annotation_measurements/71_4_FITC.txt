@@ -1,0 +1,2 @@
+Image	Object ID	Object type	Name	Classification	Parent	ROI	Centroid X µm	Centroid Y µm	Num Detections	Num Positive	Positive %	Num Positive per mm^2	Area µm^2	Perimeter µm
+71_4_FITC.tif	ada4a4c7-64c3-436b-bc22-79a486b8c5f5	Annotation			Root object (Image)	Polygon	417.05	1645.3	55	55	100	54.48	1009476.4	4747.6

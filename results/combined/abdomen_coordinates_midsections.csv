@@ -1,0 +1,98 @@
+Image	Name	Class	Parent	ROI	Centroid_X	Centroid_Y	Num Detections	Num Positive	Positive %	Num Positive per mm^2	Area µm^2	Perimeter µm	Object ID	Object type	Classification	condition	fly_section_ID	fly_ID	section_ID
+75C_6_FITC.tif	PathAnnotationObject		Image	Polygon	441.41	350.34	38.0	38.0	100.0	210.03	180922.8	1648.0				Fed	75_17	75	17
+60E_2_FITC.tif	PathAnnotationObject		Image	Polygon	407.74	330.97	36.0	36.0	100.0	168.72	213374.3	1926.7				Fed	60_22	60	22
+24E_F3_2_FITC.tif	PathAnnotationObject		Image	Polygon	383.65	360.84	87.0	87.0	100.0	366.05	237669.9	1998.3				Fed	1_2	1	2
+76B_1_FITC.tif	PathAnnotationObject		Image	Polygon	404.4	297.69	115.0	115.0	100.0	723.23	159008.5	1629.7				Starved	76_7	76	7
+76A_6_FITC.tif	PathAnnotationObject		Image	Polygon	391.34	316.31	111.0	111.0	100.0	645.43	171978.8	1608.8				Starved	76_6	76	6
+88_5_FITC.tif			Root object (Image)	Polygon	383.08	1369.2	169.0	169.0	100.0	141.66	1193019.3	5708.1	fc41411f-d0be-4d49-a2e7-b07d6eb374e4	Annotation		Starved	88_5	88	5
+88_4_FITC.tif			Root object (Image)	Polygon	358.75	1348.0	229.0	229.0	100.0	187.26	1222900.3	6197.2	afb812c8-9ce7-40c9-bf12-3bbcab560bc7	Annotation		Starved	88_4	88	4
+86D_3_FITC.tif	PathAnnotationObject		Image	Polygon	431.44	318.57	87.0	87.0	100.0	553.93	157060.0	1624.2				Starved	86_18	86	18
+55_6_FITC.tif			Root object (Image)	Polygon	411.28	1560.5	16.0	16.0	100.0	10.23	1563734.6	5542.1	ec2b5b31-5c08-4f11-ab8f-7e912fdca26c	Annotation		Fed	55_6	55	6
+74_1_FITC.tif			Root object (Image)	Polygon	422.67	1383.2	7.0	7.0	100.0	7.77	900845.2	4281.4	a6269b28-b7bd-492d-a73b-868116f8882c	Annotation		Fed	74_1	74	1
+55_7_FITC.tif			Root object (Image)	Polygon	422.89	1680.6	15.0	15.0	100.0	10.32	1453261.9	5526.7	aacb3112-1248-47f1-8030-78db4f8a3d9b	Annotation		Fed	55_7	55	7
+43_1_FITC.tif			Root object (Image)	Polygon	421.61	1633.7	12.0	12.0	100.0	9.681	1239547.8	5528.7	f8f95f24-617a-40a7-bf9d-6a29422d0c67	Annotation		Fed	43_1	43	1
+78_3_FITC.tif			Root object (Image)	Polygon	474.54	1631.9	49.0	49.0	100.0	66.62	735505.8	4358.2	a351ad76-d500-43ab-889c-84bf064afb37	Annotation		Starved	78_3	78	3
+78_2_FITC.tif			Root object (Image)	Polygon	441.94	1497.3	8.0	8.0	100.0	13.56	589984.5	3962.2	52b9f93e-5ea4-4fcd-b331-aef19e761600	Annotation		Starved	78_2	78	2
+81_6_FITC.tif			Root object (Image)	Polygon	461.96	1655.3	14.0	14.0	100.0	20.32	688896.5	3929.7	fc8b2693-f141-4dd5-bcb3-03d6e18da4e3	Annotation		Starved	81_6	81	6
+55_12_FITC.tif			Root object (Image)	Polygon	393.93	1556.1	32.0	32.0	100.0	22.3	1434774.1	5590.2	0bb3c76f-6f5d-43b5-9dcd-dda29ed5ddc9	Annotation		Fed	55_12	55	12
+71_14_FITC.tif			Root object (Image)	Polygon	420.39	1539.7	85.0	85.0	100.0	70.6	1203924.7	5034.7	06a0dc04-d7ad-4f0e-b1ce-2ca7e7a462d8	Annotation		Fed	71_14	71	14
+84E_3_FITC.tif	PathAnnotationObject		Image	Polygon	434.36	296.36	28.0	28.0	100.0	192.18	145698.9	1450.7				Starved	84_23	84	23
+84E_2_FITC.tif	PathAnnotationObject		Image	Polygon	423.51	324.95	11.0	11.0	100.0	70.33	156404.9	1545.2				Starved	84_22	84	22
+78_4_FITC.tif			Root object (Image)	Polygon	442.74	1643.7	32.0	32.0	100.0	44.8	714241.7	4082.6	9ff4aaaf-ec6f-4ec0-b361-be263a4824ca	Annotation		Starved	78_4	78	4
+72C_5_FITC.tif	PathAnnotationObject		Image	Polygon	412.65	318.85	117.0	117.0	100.0	438.76	266658.4	2083.3				Fed	72_15	72	15
+78_5_FITC.tif			Root object (Image)	Polygon	494.98	1537.7	11.0	11.0	100.0	12.07	911048.7	4542.5	8527746b-bd1f-4cce-899f-3bf0726516be	Annotation		Starved	78_5	78	5
+74_6_FITC.tif			Root object (Image)	Polygon	476.35	1386.4	1.0	1.0	100.0	1.288	776467.6	4079.8	002aa4c8-6dba-4119-971e-6e4020a8c0ee	Annotation		Fed	74_6	74	6
+43_7_FITC.tif			Root object (Image)	Polygon	373.54	1667.5	101.0	101.0	100.0	72.36	1395706.0	5664.2	3927d723-a7cd-4049-881a-c8a07c23eb8f	Annotation		Fed	43_7	43	7
+43_6_FITC.tif			Root object (Image)	Polygon	453.11	1550.6	16.0	16.0	100.0	12.73	1257365.4	5593.9	39f8fbe7-d183-4482-a9e1-c50b5a34c5a7	Annotation		Fed	43_6	43	6
+52G_2_FITC.tif	PathAnnotationObject		Image	Polygon	444.47	325.45	14.0	14.0	100.0	65.61	213389.7	1791.2				Fed	52_32	52	32
+52G_3_FITC.tif	PathAnnotationObject		Image	Polygon	416.34	328.39	27.0	27.0	100.0	135.8	198816.8	1739.9				Fed	52_33	52	33
+71_19_FITC.tif			Root object (Image)	Polygon	424.65	1760.9	56.0	56.0	100.0	50.7	1104595.7	4975.3	2557ac5e-977b-4f48-9147-e432a4b71150	Annotation		Fed	71_19	71	19
+73D_2_FITC.tif	PathAnnotationObject		Image	Polygon	408.02	301.42	55.0	55.0	100.0	265.77	206942.7	1824.7				Fed	73_17	73	17
+73D_1_FITC.tif	PathAnnotationObject		Image	Polygon	460.9	323.27	52.0	52.0	100.0	225.2	230906.1	1892.8				Fed	73_16	73	16
+90C_3_FITC.tif	PathAnnotationObject		Image	Polygon	412.88	321.63	23.0	23.0	100.0	114.64	200630.0	1901.7				Starved	90_13	90	13
+90C_2_FITC.tif	PathAnnotationObject		Image	Polygon	418.32	288.07	31.0	31.0	100.0	148.55	208682.1	1864.8				Starved	90_12	90	12
+71_12_FITC.tif			Root object (Image)	Polygon	434.68	1486.8	74.0	74.0	100.0	65.26	1133845.9	4768.3	f6463a59-06c6-4c6b-94aa-7be6d921702e	Annotation		Fed	71_12	71	12
+71_13_FITC.tif			Root object (Image)	Polygon	424.67	1505.5	155.0	155.0	100.0	120.61	1285157.9	5691.6	816a99a8-d397-498a-8e18-2da90bcaca12	Annotation		Fed	71_13	71	13
+88_10_FITC.tif			Root object (Image)	Polygon	435.67	1662.2	52.0	52.0	100.0	46.67	1114088.5	5147.9	204689e2-d150-4688-8310-56f84e265c77	Annotation		Starved	88_10	88	10
+88_8_FITC.tif			Root object (Image)	Polygon	330.82	1620.4	132.0	132.0	100.0	104.89	1258405.9	6035.9	fec65ec3-aa2d-415c-9cb6-890155615966	Annotation		Starved	88_8	88	8
+88_9_FITC.tif			Root object (Image)	Polygon	387.14	1518.6	82.0	82.0	100.0	76.6	1070482.2	4892.5	ce1c23b2-8ab4-4244-9eac-f13ea9821861	Annotation		Starved	88_9	88	9
+85F_5_FITC.tif	PathAnnotationObject		Image	Polygon	437.31	287.73	55.0	55.0	100.0	341.83	160897.3	1551.3				Starved	85_30	85	30
+36D_4_FITC.tif	PathAnnotationObject		Image	Polygon	416.62	334.57	93.0	93.0	100.0	469.41	198122.1	2277.9				Starved	36_19	36	19
+81_10_FITC.tif			Root object (Image)	Polygon	486.18	1301.6	1.0	1.0	100.0	2.367	422464.1	2989.8	dbebf51c-3586-4cb8-9bdd-402507adb99a	Annotation		Starved	81_10	81	10
+81_11_FITC.tif			Root object (Image)	Polygon	393.03	1340.4	8.0	8.0	100.0	9.512	841034.2	4282.0	b6b01079-d6f5-4a98-b8b9-ba3a9d8756c5	Annotation		Starved	81_11	81	11
+88_2_FITC.tif			Root object (Image)	Polygon	403.02	1496.7	110.0	110.0	100.0	119.61	919621.8	5401.3	e5248994-8a5f-4f38-9661-97e8cd5295cd	Annotation		Starved	88_2	88	2
+88_3_FITC.tif			Root object (Image)	Polygon	376.59	1393.0	158.0	158.0	100.0	134.7	1172998.1	5420.7	b161f79b-64e6-4f50-bf12-439908b728d1	Annotation		Starved	88_3	88	3
+55_10_FITC.tif			Root object (Image)	Polygon	426.24	1542.3	9.0	9.0	100.0	6.559	1372207.4	5355.9	c0977c11-d781-4c1f-8070-25b4397edb7d	Annotation		Fed	55_10	55	10
+55_11_FITC.tif			Root object (Image)	Polygon	353.24	1408.9	8.0	8.0	100.0	7.255	1102623.2	4699.2	0ecdd2a5-6ce3-4034-9c33-b9733864e2d5	Annotation		Fed	55_11	55	11
+43_9_FITC.tif			Root object (Image)	Polygon	418.97	1611.2	31.0	31.0	100.0	21.28	1456894.6	5593.7	e3c99767-ebe4-4507-bc76-99f77b07e764	Annotation		Fed	43_9	43	9
+71_16_FITC.tif			Root object (Image)	Polygon	407.15	1502.7	82.0	82.0	100.0	65.15	1258657.1	5513.7	1d8e0eac-8eb7-4985-a985-9b355d7aaf1a	Annotation		Fed	71_16	71	16
+71_17_FITC.tif			Root object (Image)	Polygon	436.74	1555.4	97.0	97.0	100.0	76.91	1261281.3	5374.6	b9551a3d-87b0-48a4-b9f7-9ce6ef8fb1d5	Annotation		Fed	71_17	71	17
+84E_1_FITC.tif	PathAnnotationObject		Image	Polygon	444.32	326.31	35.0	35.0	100.0	231.87	150945.5	1487.4				Starved	84_21	84	21
+74_2_FITC.tif			Root object (Image)	Polygon	425.39	1599.0	3.0	3.0	100.0	2.947	1018040.7	4865.6	b7b8dea9-88a8-4d82-9573-c926542da7bc	Annotation		Fed	74_2	74	2
+74_3_FITC.tif			Root object (Image)	Polygon	425.86	1600.5	4.0	4.0	100.0	3.765	1062398.2	4625.9	1cc05341-b8a7-42db-b92b-cf968db30637	Annotation		Fed	74_3	74	3
+78_1_FITC.tif			Root object (Image)	Polygon	470.49	1415.5	6.0	6.0	100.0	7.901	759395.7	4068.2	c5ae0617-73c8-40ae-9ed0-65c7322fcf3a	Annotation		Starved	74_6	74	6
+24E_F2_4_FITC.tif	PathAnnotationObject		Image	Polygon	421.95	298.4	74.0	74.0	100.0	325.14	227593.7	2032.8				Fed	25_24	25	24
+71_3_FITC.tif			Root object (Image)	Polygon	433.76	1550.3	61.0	61.0	100.0	69.28	880435.0	4120.4	d760b37c-780d-4ee1-9edc-5a40c4d02089	Annotation		Fed	71_3	71	3
+24C_F1_2_FITC.tif	PathAnnotationObject		Image	Polygon	436.76	308.32	54.0	54.0	100.0	173.72	310852.8	2229.6				Fed	24_2	24	2
+24C_F1_3_FITC.tif	PathAnnotationObject		Image	Polygon	440.83	300.61	58.0	58.0	100.0	190.67	304185.7	2382.2				Fed	24_3	24	3
+81_14_FITC.tif			Root object (Image)	Polygon	491.55	1621.5	15.0	15.0	100.0	14.77	1015751.0	5031.7	e9ad103d-01d1-48ff-9ccc-e49f170f57d7	Annotation		Starved	81_14	81	14
+36E_3_FITC.tif	PathAnnotationObject		Image	Polygon	427.45	324.81	73.0	73.0	100.0	378.64	192797.7	2052.0				Starved	36_23	36	23
+88_6_FITC.tif			Root object (Image)	Polygon	398.0	1653.0	97.0	97.0	100.0	76.67	1265175.5	5698.7	c102f13e-298d-44db-ba5a-5f6edfc7d1f3	Annotation		Starved	88_6	88	6
+88_7_FITC.tif			Root object (Image)	Polygon	353.38	1823.9	82.0	82.0	100.0	71.98	1139139.2	5823.7	93a782ed-1151-4065-8890-d8f43767c976	Annotation		Starved	88_7	88	7
+71_8_FITC.tif			Root object (Image)	Polygon	415.42	1541.6	100.0	100.0	100.0	76.87	1300868.9	5279.2	8faf244b-7713-4f94-a32b-bbd1a9baf79b	Annotation		Fed	71_8	71	8
+71_9_FITC.tif			Root object (Image)	Polygon	369.84	1570.1	167.0	167.0	100.0	136.52	1223233.4	5158.7	bf2b3d38-a04f-49b8-88f9-70ebc66e69fc	Annotation		Fed	71_9	71	9
+60E_1_FITC.tif	PathAnnotationObject		Image	Polygon	405.53	338.51	74.0	74.0	100.0	258.8	285934.8	2316.0				Fed	60_21	60	21
+60D_5_FITC.tif	PathAnnotationObject		Image	Polygon	393.61	357.75	37.0	37.0	100.0	185.02	199980.0	1799.1				Fed	60_20	60	20
+89_4_FITC.tif			Root object (Image)	Polygon	495.73	1841.5	63.0	63.0	100.0	62.67	1005285.2	4800.5	217a9726-6260-4c24-a345-099cb93408c2	Annotation		Starved	89_4	89	4
+89_5_FITC.tif			Root object (Image)	Polygon	432.17	1398.0	47.0	47.0	100.0	61.49	764295.1	3900.4	ecf73eb0-d99c-4316-a1ad-5a23503683d1	Annotation		Starved	89_5	89	5
+76A_5_FITC.tif	PathAnnotationObject		Image	Polygon	428.22	311.23	98.0	98.0	100.0	624.45	156938.7	1546.7				Starved	76_5	76	5
+75D_2_FITC.tif	PathAnnotationObject		Image	Polygon	381.89	304.3	65.0	65.0	100.0	364.96	178100.8	1640.5				Fed	75_19	75	19
+75D_1_FITC.tif	PathAnnotationObject		Image	Polygon	405.11	328.25	33.0	33.0	100.0	160.72	205328.6	1777.9				Fed	75_18	75	18
+85G_2_FITC.tif	PathAnnotationObject		Image	Polygon	412.96	279.03	83.0	83.0	100.0	505.14	164310.5	1611.1				Starved	85_32	85	32
+85G_3_FITC.tif	PathAnnotationObject		Image	Polygon	497.35	282.4	71.0	71.0	100.0	442.28	160533.0	1564.1				Starved	85_33	85	33
+24E_F1_3_FITC.tif	PathAnnotationObject		Image	Polygon	470.75	296.48	53.0	53.0	100.0	179.0	296085.7	2432.9				Fed	24_5	24	5
+24D_F1_4_FITC.tif	PathAnnotationObject		Image	Polygon	464.65	321.68	67.0	67.0	100.0	210.27	318643.3	2306.9				Fed	24_4	24	4
+71_5_FITC.tif			Root object (Image)	Polygon	411.04	1563.4	96.0	96.0	100.0	84.35	1138144.1	5027.2	079dbfe4-8bc7-4aeb-94b7-6a9870369349	Annotation		Fed	71_5	71	5
+71_4_FITC.tif			Root object (Image)	Polygon	417.05	1645.3	55.0	55.0	100.0	54.48	1009476.4	4747.6	ada4a4c7-64c3-436b-bc22-79a486b8c5f5	Annotation		Fed	71_4	71	4
+81_13_FITC.tif			Root object (Image)	Polygon	434.08	1437.4	13.0	13.0	100.0	15.39	844726.6	4378.0	3b0acec5-c1a6-4343-bfb6-a6a6deda96c9	Annotation		Starved	81_13	81	13
+81_12_FITC.tif			Root object (Image)	Polygon	417.02	1405.3	6.0	6.0	100.0	7.173	836449.4	4364.2	8447b22d-133d-4859-85f6-5e7583d028bf	Annotation		Starved	81_12	81	12
+36E_4_FITC.tif	PathAnnotationObject		Image	Polygon	434.47	336.32	133.0	133.0	100.0	545.02	244026.7	2129.1				Starved	36_24	36	24
+88_1_FITC.tif			Root object (Image)	Polygon	371.38	1382.8	42.0	42.0	100.0	37.04	1133892.4	5723.2	008bc23a-e0db-4a2f-a135-a4d2b05459a4	Annotation		Starved	88_1	88	1
+89_3_FITC.tif			Root object (Image)	Polygon	351.47	1576.6	78.0	78.0	100.0	64.08	1217137.2	5053.7	bf6f173c-e2ca-4cab-8195-e5e366745bd9	Annotation		Starved	89_3	89	3
+89_2_FITC.tif			Root object (Image)	Polygon	383.41	1415.8	74.0	74.0	100.0	66.89	1106299.1	4864.7	ac0a39a8-21b1-43ca-9c35-94b4457fcf81	Annotation		Starved	89_2	89	2
+52F_1_FITC.tif	PathAnnotationObject		Image	Polygon	417.25	333.36	17.0	17.0	100.0	84.86	200330.0	1790.2				Fed	52_26	52	26
+55_8_FITC.tif			Root object (Image)	Polygon	437.68	1529.2	2.0	2.0	100.0	1.546	1294058.2	5072.6	1bdb10ba-8174-4b8e-b857-b5900aae9825	Annotation		Fed	55_8	55	8
+73D_5_FITC.tif	PathAnnotationObject		Image	Polygon	402.26	328.73	24.0	24.0	100.0	122.92	195255.8	1775.8				Fed	73_20	73	20
+55_9_FITC.tif			Root object (Image)	Polygon	435.51	1491.3	12.0	12.0	100.0	8.277	1449885.1	5465.1	2e2a68c2-fd26-42cb-b398-4de409af1572	Annotation		Fed	55_9	55	9
+90C_1_FITC.tif	PathAnnotationObject		Image	Polygon	426.47	313.25	43.0	43.0	100.0	215.18	199830.3	1794.7				Starved	90_11	90	11
+86D_1_FITC.tif	PathAnnotationObject		Image	Polygon	424.08	305.24	133.0	133.0	100.0	884.59	150352.6	1652.7				Starved	86_16	86	16
+86D_2_FITC.tif	PathAnnotationObject		Image	Polygon	369.69	285.29	137.0	137.0	100.0	871.72	157160.9	1641.8				Starved	86_17	86	17
+71_11_FITC.tif			Root object (Image)	Polygon	399.64	1605.6	33.0	33.0	100.0	31.6	1044405.1	4681.4	0b4b8765-02b3-4a60-8e83-8d93f2d16cb6	Annotation		Fed	71_11	71	11
+71_10_FITC.tif			Root object (Image)	Polygon	417.19	1414.6	108.0	108.0	100.0	85.73	1259822.5	5438.0	bf533e39-228d-41f4-9c4d-935701302a85	Annotation		Fed	71_10	71	10
+81_8_FITC.tif			Root object (Image)	Polygon	445.79	1599.4					821094.8	4057.8	a23df75a-e878-4e1a-91ed-3b1f1bb05224	Annotation		Starved	81_8	81	8
+72D_1_FITC.tif	PathAnnotationObject		Image	Polygon	434.39	325.53	42.0	42.0	100.0	169.85	247283.3	1921.7				Fed	72_16	72	16
+72D_2_FITC.tif	PathAnnotationObject		Image	Polygon	426.08	304.94	61.0	61.0	100.0	262.19	232652.9	1904.1				Fed	72_17	72	17
+78_6_FITC.tif			Root object (Image)	Polygon	470.27	1634.8	8.0	8.0	100.0	9.481	843801.3	4541.9	97f5c0c9-37f4-47a2-a176-dbe6ef362d18	Annotation		Starved	78_6	78	6
+74_4_FITC.tif			Root object (Image)	Polygon	433.14	1673.0	1.0	1.0	100.0	1.007	993189.2	4646.3	9ea94957-74bb-45ec-a2da-79dfe64fae20	Annotation		Fed	74_4	74	4
+43_5_FITC.tif			Root object (Image)	Polygon	460.91	1627.4	14.0	14.0	100.0	11.1	1261619.0	5761.9	cbc718b4-268c-4a7a-bfae-16604ea8a7a5	Annotation		Fed	43_5	43	5
+24E_F2_3_FITC.tif	PathAnnotationObject		Image	Polygon	442.56	333.92	45.0	45.0	100.0	187.63	239830.4	2012.2				Fed	25_23	25	23
