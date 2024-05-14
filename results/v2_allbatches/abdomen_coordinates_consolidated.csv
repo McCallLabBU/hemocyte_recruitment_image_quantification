@@ -1,0 +1,55 @@
+Image	Object ID	Object type	Name	Classification	Parent	ROI	Centroid_X	Centroid_Y	Num Detections	Num Positive	Positive %	Num Positive per px^2	Area px^2	Perimeter px	condition	fly_section_ID	fly_ID	section_ID
+85E_5_merge.tif	0e6eb74e-3009-40b4-9d2a-4c30fbd61ff7	Annotation			Root object (Image)	Polygon	794.42	513.02	10.0	10.0	100.0	0.0	396063.1	2755.2	Starved	85_25	85	25
+76B_1_merge.tif	df0d21e9-1623-45d0-a3e4-d693874f639b	Annotation			Root object (Image)	Polygon	658.75	474.1	2.0	2.0	100.0	0.0	442338.0	2627.3	Starved	76_7	76	7
+89_2_merge.tif	88aae0b3-96a4-49ed-88e2-8f03911deb75	Annotation			Root object (Image)	Polygon	2106.7	1444.9	54.0	54.0	100.0	0.0	4112249.4	8048.2	Starved	89_2	89	2
+43_9_merge.tif	f61438e1-1faa-4e5e-af5f-6495d0cadb05	Annotation			Root object (Image)	Polygon	1835.3	1553.4	6.0	6.0	100.0	0.0	7205317.5	11319.3	Fed	43_9	43	9
+86D_2_merge.tif	9668f985-0608-400b-bbf1-a1a714693af4	Annotation			Root object (Image)	Polygon	564.47	449.05	32.0	32.0	100.0	0.0001	411532.5	2743.0	Starved	86_17	86	17
+88_6_merge.tif	bbc2342e-a114-4655-8e38-88c2e4dfb3f2	Annotation			Root object (Image)	Polygon	2416.3	1607.3	48.0	48.0	100.0	0.0	3631098.8	7421.2	Starved	88_6	88	6
+85F_2_merge.tif	67ce6422-835c-4af0-9379-5db691eea913	Annotation			Root object (Image)	Polygon	724.44	438.12	50.0	50.0	100.0	0.0001	418967.3	2822.2	Starved	85_27	85	27
+89_4_merge.tif	41c82681-83a3-413b-bd09-8a9b9a955e9a	Annotation			Root object (Image)	Polygon	2381.1	1615.8	33.0	33.0	100.0	0.0	3433601.5	7435.4	Starved	89_4	89	4
+90C_2_merge.tif	a540d13b-ee71-43e9-b216-0ac9cdedb9f0	Annotation			Root object (Image)	Polygon	665.53	462.63	13.0	13.0	100.0	0.0	560752.8	3051.9	Starved	90_12	90	12
+71_14_merge.tif	4f133dc7-9b58-4eab-9ce7-c208227a35c4	Annotation			Root object (Image)	Polygon	2066.2	1607.4	85.0	85.0	100.0	0.0	5373334.0	9396.6	Fed	71_14	71	14
+52_19_merge.tif	a96583bd-9e99-4a0d-906a-aef9db43f44d	Annotation			Root object (Image)	Polygon	594.28	528.9	1.0	1.0	100.0	0.0	432655.4	2543.3	Fed	52_19	52	19
+86D_4_merge.tif	45ae430b-d051-4deb-9029-afa766cca0a8	Annotation			Root object (Image)	Polygon	663.19	525.5	27.0	27.0	100.0	0.0001	420423.8	2808.8	Starved	86_19	86	19
+71_19_merge.tif	a4b9678b-3611-404c-b884-d5a1fc0ee7cd	Annotation			Root object (Image)	Polygon	2093.0	1758.3	44.0	44.0	100.0	0.0	4976424.4	8821.1	Fed	71_19	71	19
+78_5_merge.tif	6acfe066-b572-4fd9-992f-8fb20534591d	Annotation			Root object (Image)	Polygon	2390.2	1579.1	4.0	4.0	100.0	0.0	4053051.5	7959.9	Starved	78_5	78	5
+89_3_merge.tif	ac5c3ce3-11d2-4f90-95e4-5589d4f60a74	Annotation			Root object (Image)	Polygon	1923.3	1473.7	65.0	65.0	100.0	0.0	4415678.9	8241.8	Starved	89_3	89	3
+86D_3_merge.tif	f66f01e5-9cd0-485d-b28e-d513b70116d2	Annotation			Root object (Image)	Polygon	673.9	505.13	35.0	35.0	100.0	0.0001	416290.3	2744.2	Starved	86_18	86	18
+88_7_merge.tif	20e2cab6-9df6-4cce-80b1-385be5d9ac12	Annotation			Root object (Image)	Polygon	2165.7	1721.2	37.0	37.0	100.0	0.0	3582977.0	7208.2	Starved	88_7	88	7
+43_5_merge.tif	158344df-a073-40c6-bc66-ff1ea49763d2	Annotation			Root object (Image)	Polygon	2252.4	1654.3	1.0	1.0	100.0	0.0	5750871.1	9440.2	Fed	43_5	43	5
+90C_3_merge.tif	c26c57f5-0684-4d09-8233-3dbeb461392c	Annotation			Root object (Image)	Polygon	660.29	519.48					541900.0	3150.0	Starved	90_13	90	13
+52_18_merge.tif	23122aee-c7a2-45ab-a35c-c27c1a674867	Annotation			Root object (Image)	Polygon	612.63	532.28	5.0	5.0	100.0	0.0	444553.2	2603.4	Fed	52_18	52	18
+25_13_merge.tif	031d125d-44ee-4d48-81cf-1f4b42ffb9da	Annotation			Root object (Image)	Polygon	698.37	529.12	6.0	6.0	100.0	0.0	589020.1	3197.8	Fed	25_13	25	13
+73D_2_merge.tif	a15dfd1c-d864-4a67-8cd6-1d26cad88381	Annotation			Root object (Image)	Polygon	662.55	487.51	12.0	12.0	100.0	0.0	535032.7	2858.1	Fed	73_17	73	17
+78_3_merge.tif	07cca257-4ba1-4284-a021-178e3864399f	Annotation			Root object (Image)	Polygon	2245.6	1652.0	25.0	25.0	100.0	0.0	4282472.8	8120.9	Starved	78_3	78	3
+52_20_merge.tif	b6ce65b6-dbcf-4395-9483-e5520dcbf8a1	Annotation			Root object (Image)	Polygon	616.68	539.12					448246.1	2659.2	Fed	52_20	52	20
+72D_1_merge.tif	a723caf7-e28c-4ef0-90fe-f85ec0370a50	Annotation			Root object (Image)	Polygon	721.3	511.05					611013.8	2964.1	Fed	72_16	72	16
+78_6_merge.tif	b96cdfd1-7e43-41d9-bbe9-5919fa776fab	Annotation			Root object (Image)	Polygon	2198.2	1594.3	1.0	1.0	100.0	0.0	4674843.5	8781.8	Starved	78_6	78	6
+43_6_merge.tif	bdc02ab8-58fc-42fa-8368-904dfe33b25b	Annotation			Root object (Image)	Polygon	2164.8	1498.7	12.0	12.0	100.0	0.0	5701304.4	9553.3	Fed	43_6	43	6
+81_12_merge.tif	7cb0c2cd-efe1-4815-8547-3962d2510716	Annotation			Root object (Image)	Polygon	2032.8	1409.6					4618009.0	8182.4	Starved	81_12	81	12
+75C_4_merge.tif	45174a79-b74f-44bc-927d-0d98bf049e4c	Annotation			Root object (Image)	Polygon	665.84	555.97	1.0	1.0	100.0	0.0	524031.4	3067.6	Fed	75_15	75	15
+72C_4_merge.tif	b5542065-0c60-4773-aeab-81db21799a54	Annotation			Root object (Image)	Polygon	727.55	520.91					642973.6	3071.2	Fed	72_14	72	14
+88_4_merge.tif	94b31f4d-3ed5-4c4d-8d93-e3d39becbf39	Annotation			Root object (Image)	Polygon	2220.8	1799.3	67.0	67.0	100.0	0.0	3423588.4	6977.1	Starved	88_4	88	4
+71_16_merge.tif	37c48456-85ce-4d14-ac11-4413f0279b54	Annotation			Root object (Image)	Polygon	1984.9	1527.1	65.0	65.0	100.0	0.0	5427215.9	9652.8	Fed	71_16	71	16
+60_20_merge.tif	386caed3-5761-4b03-9ee5-239030270c3d	Annotation			Root object (Image)	Polygon	622.66	560.6	13.0	13.0	100.0	0.0	508326.8	2941.1	Fed	60_20	60	20
+73D_1_merge.tif	46ffb9f0-a9ba-4d72-a38a-423a5113870a	Annotation			Root object (Image)	Polygon	731.9	515.67					590715.4	2980.3	Fed	73_16	73	16
+36_23_merge.tif	845f6adc-83f9-4c1b-9e81-ea601386b544	Annotation			Root object (Image)	Polygon	693.56	521.8	13.0	13.0	100.0	0.0	472786.7	3309.1	Starved	36_23	36	23
+76B_5_merge.tif	1829d72f-2109-4d40-ad3f-cb9e68f9cc78	Annotation			Root object (Image)	Polygon	667.38	463.79	18.0	18.0	100.0	0.0	374792.0	2608.7	Starved	76_9	76	9
+81_14_merge.tif	e62d6596-bf61-4764-bcfe-a9081606adee	Annotation			Root object (Image)	Polygon	2323.7	1540.7	3.0	3.0	100.0	0.0	4476954.7	8133.1	Starved	81_14	81	14
+84D_3_merge.tif	73ad34bc-b427-4a58-abfa-e21159bd31b2	Annotation			Root object (Image)	Polygon	661.22	511.83	1.0	1.0	100.0	0.0	389699.0	2516.2	Starved	84_18	84	18
+75C_2_merge.tif	aec11bac-7baf-4cdc-ae2b-f4b291975048	Annotation			Root object (Image)	Polygon	734.48	561.98	13.0	13.0	100.0	0.0	505284.2	3000.4	Fed	75_13	75	13
+60_18_merge.tif	978d97c3-457d-4a48-99c7-ca1df6fae0c3	Annotation			Root object (Image)	Polygon	686.77	535.28	13.0	13.0	100.0	0.0	488044.3	2850.4	Fed	60_18	60	18
+36_24_merge.tif	d507aed0-b7b1-41f1-806f-d51dfea69afb	Annotation			Root object (Image)	Polygon	701.41	543.46	14.0	14.0	100.0	0.0	612333.8	3557.1	Starved	36_24	36	24
+88_8_merge.tif	52b95e05-ebbd-4226-acfb-5570cda3892f	Annotation			Root object (Image)	Polygon	2070.9	1579.6	35.0	35.0	100.0	0.0	3801307.0	7253.5	Starved	88_8	88	8
+43_7_merge.tif	a1844459-342b-46be-8424-294b10d5ccf9	Annotation			Root object (Image)	Polygon	1809.0	1664.9	39.0	39.0	100.0	0.0	6532710.0	10283.5	Fed	43_7	43	7
+85F_1_merge.tif	f07fc5dd-d4eb-4e06-8c6b-92437f54d029	Annotation			Root object (Image)	Polygon	647.84	469.69	36.0	36.0	100.0	0.0001	436757.5	3716.3	Starved	85_26	85	26
+84D_4_merge.tif	c4b1a096-3a77-4bac-a732-8d320a01a9b4	Annotation			Root object (Image)	Polygon	672.34	418.34	8.0	8.0	100.0	0.0	400427.4	2414.6	Starved	84_19	84	19
+81_13_merge.tif	9047f86b-236f-46bc-8099-204d170b9362	Annotation			Root object (Image)	Polygon	2047.8	1384.3	9.0	9.0	100.0	0.0	4244936.1	8140.7	Starved	81_13	81	13
+72C_5_merge.tif	74ac8bde-e360-4189-92d1-60d4d9fd219d	Annotation			Root object (Image)	Polygon	718.55	507.91	5.0	5.0	100.0	0.0	629140.0	3052.3	Fed	72_15	72	15
+88_5_merge.tif	8f282cce-7b1e-48d8-af93-5c6e37a30363	Annotation			Root object (Image)	Polygon	2298.5	1596.5	94.0	94.0	100.0	0.0	3684693.2	8090.4	Starved	88_5	88	5
+71_17_merge.tif	1b370dde-5fd9-47f2-a67c-85f3038a994c	Annotation			Root object (Image)	Polygon	2193.3	1596.9	38.0	38.0	100.0	0.0	5132904.8	9326.1	Fed	71_17	71	17
+90C_1_merge.tif	59131e68-2967-468e-855a-fffb0d73c5af	Annotation			Root object (Image)	Polygon	681.19	501.99	5.0	5.0	100.0	0.0	541403.6	2929.0	Starved	90_11	90	11
+76B_4_merge.tif	7dca70b2-5fb9-4d8f-94c0-9cc37b088d17	Annotation			Root object (Image)	Polygon	700.94	482.11					373145.0	2590.9	Starved	76_8	76	8
+73C_5_merge.tif	df7c943f-8cd8-4cb2-a375-74522792f8d3	Annotation			Root object (Image)	Polygon	767.74	523.43	3.0	3.0	100.0	0.0	430952.0	2545.9	Fed	73_15	73	15
+84D_2_merge.tif	b2e3682e-d507-45a3-96bb-0c1889459440	Annotation			Root object (Image)	Polygon	671.98	483.07	1.0	1.0	100.0	0.0	383654.2	2437.1	Starved	84_17	84	17
+75C_3_merge.tif	e7ee75af-5e3b-4a32-a842-18a14e92caf9	Annotation			Root object (Image)	Polygon	798.6	515.57	9.0	9.0	100.0	0.0	404458.0	2413.3	Fed	75_14	75	14

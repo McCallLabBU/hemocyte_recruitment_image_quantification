@@ -1,0 +1,2 @@
+Image	Object ID	Object type	Name	Classification	Parent	ROI	Centroid X px	Centroid Y px	Num Detections	Num Positive	Positive %	Num Positive per px^2	Area px^2	Perimeter px
+75C_2_merge.tif	aec11bac-7baf-4cdc-ae2b-f4b291975048	Annotation			Root object (Image)	Polygon	734.48	561.98	13	13	100	0	505284.2	3000.4

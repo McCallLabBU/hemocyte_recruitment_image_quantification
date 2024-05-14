@@ -1,0 +1,2 @@
+Image	Object ID	Object type	Name	Classification	Parent	ROI	Centroid X px	Centroid Y px	Area px^2	Perimeter px
+72D_1_merge.tif	a723caf7-e28c-4ef0-90fe-f85ec0370a50	Annotation			Root object (Image)	Polygon	721.3	511.05	611013.8	2964.1

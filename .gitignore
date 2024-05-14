@@ -1,7 +1,7 @@
 # raw files
-data/midsections/annotated_images/*
-results/archive/*
-results/allsections/*
+data/*
+#results/*
+#results/allsections/*
 code/archive/*
 .DS_Store
 .RData
