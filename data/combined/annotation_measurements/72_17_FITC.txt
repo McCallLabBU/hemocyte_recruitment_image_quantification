@@ -1,2 +1,0 @@
-Image	Name	Class	Parent	ROI	Centroid X µm	Centroid Y µm	Num Detections	Num Positive	Positive %	Num Positive per mm^2	Area µm^2	Perimeter µm
-72D_2_FITC.tif	PathAnnotationObject		Image	Polygon	426.08	304.94	61	61	100	262.19	232652.9	1904.1
